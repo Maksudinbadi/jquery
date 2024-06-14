@@ -1,0 +1,5 @@
+Q:3 How to create slider with animation?
+Ans:
+    Creating a slider animation requires a blend of HTML, CSS, and JavaScript.
+     Start by structuring your HTML with a series of images or content in a 
+     container. Use CSS to style and position your slides.

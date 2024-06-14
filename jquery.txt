@@ -1,0 +1,8 @@
+Q:1 what is jQuery ?
+ans:
+      jQuery is a javascript library designed to simplify
+      HTML DOM tree travesal and manipulation,as well as
+      event handling css animation,and Ajax it is free 
+      open sorces.jQuery is a lightweight write less,Do
+      more.the purpose of jQuery is to make it much easier
+      use javascript on your website.
